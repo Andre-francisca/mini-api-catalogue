@@ -83,3 +83,6 @@ Problèmes courants et solutions rapides
 "Missing script: test" avec npm : vérifier package.json ou utiliser npm start.
 pytest ne trouve pas test.py : renommer le fichier en test_operation.py.
 Erreur d'import Python : assurez-vous d'être dans le dossier python-tests ou d'avoir le bon PYTHONPATH.
+
+Lopes Debora
+Adil ghazal
